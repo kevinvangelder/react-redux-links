@@ -30,7 +30,9 @@
 - **Build an Imgur Client with React Native and MobX**  
   https://medium.com/react-native-development/build-an-imgur-client-with-react-native-and-mobx-react-native-school-53146d648250  
   A tutorial that demonstrates build an RN app with MobX for state management, use of RESTful APIs, full-screen images in a ListView, and detection of device orientation
-  
+
+
+
 - **Offline-First Apps with React Native and Redux**  
   http://rationalappdev.com/offline-first-apps-with-react-native-and-redux/  
   A tutorial that builds out a cat GIF app using React Native, Redux, Node, and Express, and includes offline support.
@@ -88,3 +90,18 @@
 - **How we restructured our app with React-Navigation**  
   https://m.oursky.com/how-we-restructured-our-app-with-react-navigation-98a89e219c26  
   Describes some of the history of the React-Navigation library, and shows some examples of how to use it with Redux and make a Higher-Order Component to work with it.
+
+
+### Boilerplates
+
+- **Create React Native App**
+  https://github.com/react-community/create-react-native-app
+  Create a React Native app on any OS with no build config. 
+
+- **Ignite**
+  https://github.com/infinitered/ignite
+  The hottest CLI for React Native, boilerplates, plugins, generators, and more! https://infinite.red/ignite 
+
+- **Expo**
+  https://expo.io/
+  Easily build apps with React Native
